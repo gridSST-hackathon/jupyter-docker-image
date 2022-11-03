@@ -24,7 +24,7 @@ jobs:
     - name: Build the image and push it if `NO_PUSH` disabled
       uses: jupyterhub/repo2docker-action@master
       with: # make sure username & password/token matches your registry
-        # NO_PUSH: "true"
+        # NO_PUSH: "true" 
         DOCKER_REGISTRY: "quay.io"
 
         # Uncomment and modify the following line with your image name.
