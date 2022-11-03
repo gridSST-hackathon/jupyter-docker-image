@@ -49,6 +49,7 @@ dependencies:
   - psycopg2
   - pycrs
   - pyproj
+  - python_abi
   - python=3.8
   - rasterio
   - rioxarray
