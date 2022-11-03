@@ -4,7 +4,7 @@ channels:
   - conda-forge
 
 dependencies:
-  - jupyter_contrib_nbextensions==0.5.1
+  - jupyter_contrib_nbextensions
   - bokeh
   - cartopy
   - contextily
@@ -37,7 +37,7 @@ dependencies:
   - jupyterlab-git
   - jupyterlab=3
   - jupyter-resource-usage
-  - kerchunk=0.09
+  - kerchunk
   - matplotlib
   - nbgitpuller=0.9
   - numpy
