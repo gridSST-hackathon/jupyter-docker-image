@@ -30,7 +30,7 @@ dependencies:
   - ipympl
   - ipywidgets
   - ipython-sql
-  - jupyter-book=0.10.2
+  - jupyter-book
   - jupyterhub-singleuser
   - jupyter-server-proxy
   - jupyterlab-git
@@ -38,9 +38,9 @@ dependencies:
   - jupyter-resource-usage
   - kerchunk
   - matplotlib
-  - nbgitpuller=0.9
+  - nbgitpuller
   - numpy
-  - pandas=1.2
+  - pandas
   - panel
   - param>=1.11.1
   - pillow
@@ -58,5 +58,5 @@ dependencies:
   - scipy
   - seaborn
   - shapely
-  - tensorflow=2.5
+  - tensorflow
   - zarr
