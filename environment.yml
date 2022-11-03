@@ -30,7 +30,7 @@ dependencies:
   - ipympl
   - ipywidgets
   - ipython-sql
-  - jupyter-book=0.10.2
+  - jupyter-book
   - jupyterhub-singleuser
   - jupyter-server-proxy
   - jupyterlab-git
